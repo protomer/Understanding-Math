@@ -1,3 +1,3 @@
 Hello!
 
-This is a repository for Math Guides, Split by subject, feel free to look around!
+This is a repository for Guides I used in my videos, Split by subject, feel free to look around!
