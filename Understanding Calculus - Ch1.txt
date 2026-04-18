@@ -1,0 +1,22 @@
+So, as i understand it: one, one plus one, x plus one, and "solve for x" are all considered "expressions".
+And an expression is considered a "symbol" or a finite combination of symbols arranged to represent values.
+
+
+In an expression no equality symbol inequality symbol ever exist. If an inequality symbol is present such as in five greater than four this is called an inequality.
+
+ Which is a statement that two expressions are unequal. Whereas if an unequal sign is present such as 1 + 1 equaling 2 or 1 plus 1 equaling 2 + 0, this is considered an equation which is a statement that two expressions are equal. 
+
+An equation must have an = by definition. Mathematics, a specific expression or group of expressions considered aim of the meaningful statement if organized correctly. A mathematical statement is a declarative sentence that is unequivocally either true or false, but not both. 
+
+A true statement, a true mathematical statement for example would be "1+1=2", and the sentence "five is a prime number". Whereas a false mathematical statement would be "one is equal to two" or "five is not a prime number". One mathematical statement that would be neither would be a statement like "one is equal to-" or the sentence "the chimp is running". Now if we consider the equation one plus X is equal to two, This mathematical statement can either be true false or neither depending on X. 
+
+X is considered a variable Two were considered constants numerical const Which are different from alphabetical constants according to Rene Descartes, who is responsible for having developed the alphabetical system to annotate mathematical variables or Constants given the context of an equation or formula. 
+
+The general rule is: if you have letters starting with the beginning of the alphabet then more than likely this letter is going to be a constant while, if you deal with letters like X, Y or Z these are more likely going to be variables in an equation or formula.
+
+Well an equation is a statement that two expressions are equal, a formula is more of A structural rule relating 1 mathematical expression to another. A good example of this is the famous E = MC ^2 or Y = mx+B.
+
+Technically speaking, the process for solving for X in "1+X=2" is itself a formula as well.
+
+Rene Descartes is also known for bridging the gap between algebra and geometry using the Cartesian plane
+
